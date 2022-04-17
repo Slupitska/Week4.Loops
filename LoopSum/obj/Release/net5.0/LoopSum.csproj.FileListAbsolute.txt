@@ -1,0 +1,16 @@
+C:\Users\slupi\source\repos\Loops\LoopSum\obj\Release\net5.0\LoopSum.csproj.AssemblyReference.cache
+C:\Users\slupi\source\repos\Loops\LoopSum\obj\Release\net5.0\LoopSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\slupi\source\repos\Loops\LoopSum\obj\Release\net5.0\LoopSum.AssemblyInfoInputs.cache
+C:\Users\slupi\source\repos\Loops\LoopSum\obj\Release\net5.0\LoopSum.AssemblyInfo.cs
+C:\Users\slupi\source\repos\Loops\LoopSum\obj\Release\net5.0\LoopSum.csproj.CoreCompileInputs.cache
+C:\Users\slupi\source\repos\Loops\LoopSum\bin\Release\net5.0\LoopSum.exe
+C:\Users\slupi\source\repos\Loops\LoopSum\bin\Release\net5.0\LoopSum.deps.json
+C:\Users\slupi\source\repos\Loops\LoopSum\bin\Release\net5.0\LoopSum.runtimeconfig.json
+C:\Users\slupi\source\repos\Loops\LoopSum\bin\Release\net5.0\LoopSum.runtimeconfig.dev.json
+C:\Users\slupi\source\repos\Loops\LoopSum\bin\Release\net5.0\LoopSum.dll
+C:\Users\slupi\source\repos\Loops\LoopSum\bin\Release\net5.0\ref\LoopSum.dll
+C:\Users\slupi\source\repos\Loops\LoopSum\bin\Release\net5.0\LoopSum.pdb
+C:\Users\slupi\source\repos\Loops\LoopSum\obj\Release\net5.0\LoopSum.dll
+C:\Users\slupi\source\repos\Loops\LoopSum\obj\Release\net5.0\ref\LoopSum.dll
+C:\Users\slupi\source\repos\Loops\LoopSum\obj\Release\net5.0\LoopSum.pdb
+C:\Users\slupi\source\repos\Loops\LoopSum\obj\Release\net5.0\LoopSum.genruntimeconfig.cache

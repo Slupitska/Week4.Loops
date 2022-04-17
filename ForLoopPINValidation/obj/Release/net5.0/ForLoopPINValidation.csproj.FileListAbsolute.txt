@@ -1,0 +1,16 @@
+C:\Users\slupi\source\repos\Loops\ForLoopPINValidation\bin\Release\net5.0\ForLoopPINValidation.exe
+C:\Users\slupi\source\repos\Loops\ForLoopPINValidation\bin\Release\net5.0\ForLoopPINValidation.deps.json
+C:\Users\slupi\source\repos\Loops\ForLoopPINValidation\bin\Release\net5.0\ForLoopPINValidation.runtimeconfig.json
+C:\Users\slupi\source\repos\Loops\ForLoopPINValidation\bin\Release\net5.0\ForLoopPINValidation.runtimeconfig.dev.json
+C:\Users\slupi\source\repos\Loops\ForLoopPINValidation\bin\Release\net5.0\ForLoopPINValidation.dll
+C:\Users\slupi\source\repos\Loops\ForLoopPINValidation\bin\Release\net5.0\ref\ForLoopPINValidation.dll
+C:\Users\slupi\source\repos\Loops\ForLoopPINValidation\bin\Release\net5.0\ForLoopPINValidation.pdb
+C:\Users\slupi\source\repos\Loops\ForLoopPINValidation\obj\Release\net5.0\ForLoopPINValidation.csproj.AssemblyReference.cache
+C:\Users\slupi\source\repos\Loops\ForLoopPINValidation\obj\Release\net5.0\ForLoopPINValidation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\slupi\source\repos\Loops\ForLoopPINValidation\obj\Release\net5.0\ForLoopPINValidation.AssemblyInfoInputs.cache
+C:\Users\slupi\source\repos\Loops\ForLoopPINValidation\obj\Release\net5.0\ForLoopPINValidation.AssemblyInfo.cs
+C:\Users\slupi\source\repos\Loops\ForLoopPINValidation\obj\Release\net5.0\ForLoopPINValidation.csproj.CoreCompileInputs.cache
+C:\Users\slupi\source\repos\Loops\ForLoopPINValidation\obj\Release\net5.0\ForLoopPINValidation.dll
+C:\Users\slupi\source\repos\Loops\ForLoopPINValidation\obj\Release\net5.0\ref\ForLoopPINValidation.dll
+C:\Users\slupi\source\repos\Loops\ForLoopPINValidation\obj\Release\net5.0\ForLoopPINValidation.pdb
+C:\Users\slupi\source\repos\Loops\ForLoopPINValidation\obj\Release\net5.0\ForLoopPINValidation.genruntimeconfig.cache

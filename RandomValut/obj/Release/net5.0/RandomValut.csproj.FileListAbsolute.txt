@@ -1,0 +1,16 @@
+C:\Users\slupi\source\repos\Loops\RandomValut\bin\Release\net5.0\RandomValut.exe
+C:\Users\slupi\source\repos\Loops\RandomValut\bin\Release\net5.0\RandomValut.deps.json
+C:\Users\slupi\source\repos\Loops\RandomValut\bin\Release\net5.0\RandomValut.runtimeconfig.json
+C:\Users\slupi\source\repos\Loops\RandomValut\bin\Release\net5.0\RandomValut.runtimeconfig.dev.json
+C:\Users\slupi\source\repos\Loops\RandomValut\bin\Release\net5.0\RandomValut.dll
+C:\Users\slupi\source\repos\Loops\RandomValut\bin\Release\net5.0\ref\RandomValut.dll
+C:\Users\slupi\source\repos\Loops\RandomValut\bin\Release\net5.0\RandomValut.pdb
+C:\Users\slupi\source\repos\Loops\RandomValut\obj\Release\net5.0\RandomValut.csproj.AssemblyReference.cache
+C:\Users\slupi\source\repos\Loops\RandomValut\obj\Release\net5.0\RandomValut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\slupi\source\repos\Loops\RandomValut\obj\Release\net5.0\RandomValut.AssemblyInfoInputs.cache
+C:\Users\slupi\source\repos\Loops\RandomValut\obj\Release\net5.0\RandomValut.AssemblyInfo.cs
+C:\Users\slupi\source\repos\Loops\RandomValut\obj\Release\net5.0\RandomValut.csproj.CoreCompileInputs.cache
+C:\Users\slupi\source\repos\Loops\RandomValut\obj\Release\net5.0\RandomValut.dll
+C:\Users\slupi\source\repos\Loops\RandomValut\obj\Release\net5.0\ref\RandomValut.dll
+C:\Users\slupi\source\repos\Loops\RandomValut\obj\Release\net5.0\RandomValut.pdb
+C:\Users\slupi\source\repos\Loops\RandomValut\obj\Release\net5.0\RandomValut.genruntimeconfig.cache
